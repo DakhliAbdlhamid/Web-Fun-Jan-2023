@@ -1,0 +1,60 @@
+.profilePic{
+    display: block;
+    width: 130px;
+    
+    
+}
+.contact{
+    display: block;
+}
+.contact,div{
+    display: inline-block;
+}
+.githublogo{
+    width: 30px;
+    height: 30px;
+
+}
+.linkedinlogo{
+    width: 30px;
+    height: 30px;
+
+
+}
+.emaillogo{
+    width: 35px;
+    height: 30px;
+
+}
+table{
+    border: none;
+    border-collapse: collapse;
+}
+td{ 
+    border: 2px solid green;
+    border-collapse: collapse;
+    border-bottom: none;
+}
+th{
+    border: 2px solid green;
+    border-collapse: collapse;
+    border-top: none;
+    border-right: none;
+    
+}
+
+table>thead>tr>.th0{
+    border-left: none;
+}
+#td4{
+    border-right: none;
+}
+#td0{
+    border-left: none;
+}
+.ne{
+    display: block;
+}
+.sub{
+    display: block;
+}
