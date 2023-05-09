@@ -1,0 +1,18 @@
+h1{
+    background-color: black;
+    font-family :'Arial Narrow Bold';
+    color: white; 
+}
+.cloud{
+    color:aqua;
+}
+h2{color: white;
+    background-color:purple ;
+    text-align: center;
+}
+
+h3{color: rgb(94, 34, 94);
+    background-color: rgb(14, 171, 185);
+    text-align: right;
+    text-decoration: underline;
+}
